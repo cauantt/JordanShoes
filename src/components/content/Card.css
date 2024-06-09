@@ -1,0 +1,72 @@
+.bg {
+
+    background-color: #F3F7FF;
+    height: 200px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#model {
+
+    color: #7CA2FA;
+    cursor: pointer;
+}
+
+
+.description {
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.7em;
+    cursor: pointer;
+
+
+}
+#price {
+
+
+    cursor: pointer;
+}
+
+.card {
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.8em;
+
+}
+
+#imgcard{
+
+
+    width: 250px;
+
+
+}
+
+@media (max-width: 768px) {
+
+
+.bg {
+
+    background-color: #F3F7FF;
+    height: 200px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+}
+
+
+
