@@ -5,13 +5,16 @@ Create a responsive website according to the design on FIGMA
 
 ## FIGMA Design
 
-![image](https://github.com/cauantt/code-lab/assets/131816676/1a1c8a20-4884-4a68-8c80-90705cd4f455)
+![image](https://github.com/cauantt/JordanShoes/assets/131816676/04a1b8d4-2037-4f7b-98ba-362bc1c184d8)
+
 
 # Desafio code lab 1 
 
 Fazer um site responsivo de acordo com o projeto no FIGMA 
 
 ## Projeto do Figma 
-![image](https://github.com/cauantt/code-lab/assets/131816676/1a1c8a20-4884-4a68-8c80-90705cd4f455)
+
+![image](https://github.com/cauantt/JordanShoes/assets/131816676/c92416d4-a3d4-4fa8-b8e8-67041e9bf68d)
+
 
 
